@@ -10,4 +10,4 @@ IMPROVMENTS :-
 • Repetion of code , you may see repetition of code all across the bot , Mess/ useless code , please avoid doing that 
 •And the list goes on....
 
-this is the first project i made after learning python...So that's the reason its a mess
+this is the first project i made while learning python...So that's the reason its a mess
