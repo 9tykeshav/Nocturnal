@@ -1,0 +1,11 @@
+git+https://github.com/Rapptz/discord.py
+requests
+jishaku
+aiohttp
+dblpy
+dnspython
+asyncpg
+psutil
+async-cleverbot
+
+async_cse
