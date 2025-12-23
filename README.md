@@ -1,14 +1,33 @@
 # Nocturnal
-A simple fun discord bot i made before learning python , with no knowledge of python 
 
-NOTE - 
-• As i mentioned this code is a mess don't take inspiration from it
+A Discord bot I built while learning Python. My first real project.
 
-IMPROVMENTS :- 
-• Make uses of cog to avoid mess / big code. i wasn't familiar with classes / OOP that's
- why i didn't used cogs.
-• Repetion of code , you may see repetition of code all across the bot , Mess/ useless code , please avoid doing that 
-•And the list goes on....
+This was me figuring out how to make things work — async programming,
+database connections, API calls, the works. It's not pretty, but it
+taught me a lot.
 
-this is the first project i made while learning python...So that's the reason its a mess
-(Nocturnal is discountinued i.e no more maintainance) 
+## What it does
+
+**Moderation** — Ban, kick, mute, purge messages, lock channels
+
+**Games** — Guess the Brand, Who's That Pokémon, roulette, coin toss
+
+**Social** — Hug, pat, slap, cuddle (with GIFs)
+
+**Utility** — Google search, animal facts, server audit logs, AI chat
+via Cleverbot
+
+**Anime** — Character GIFs for Zoro, Naruto, and others
+
+## Tech
+
+- Python + discord.py
+- PostgreSQL (asyncpg) for game data and ping tracking
+- External APIs: Cleverbot, Google Search, Discord Bot List
+
+## Honest notes
+
+This was before I knew about cogs, proper structure, or how to avoid
+copy-pasting code everywhere. If you're learning, don't use this as a
+reference for *how* to write a bot — but maybe as proof that you can
+build something real while still figuring things out.
